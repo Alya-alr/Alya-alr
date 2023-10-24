@@ -1,0 +1,7 @@
+import pygame
+import sys
+import time
+import random
+
+pygame.init()
+clock = pygame.time.Clock()
